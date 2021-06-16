@@ -16,7 +16,11 @@ Go ahead and clone the project on to your local machine
 3. navigate to localhost:3000 and start playing around with the project!
 
 ## Managing the Back end data
-1. navigate to localhost:8000 (that is where the REST API is being served)
+1. navigate to ```localhost:8000``` (that is where the REST API is being served)
 2. stop the server and run the command ```python3 manage.py createsuperuser``` to create an admin account
 3. visit ```/admin``` and login with the credentials you created 
 4. start punching in some dummy data and then take the pre-generated tracking number and put it through the front end to get data about it!
+
+# Built with
+> [Django REST Framework] - https://www.django-rest-framework.org/
+> [React] - https://reactjs.org/
