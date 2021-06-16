@@ -22,5 +22,6 @@ Go ahead and clone the project on to your local machine
 4. start punching in some dummy data and then take the pre-generated tracking number and put it through the front end to get data about it!
 
 # Built with
-> [Django REST Framework] - https://www.django-rest-framework.org/
-> [React] - https://reactjs.org/
+> * [Django REST Framework] - https://www.django-rest-framework.org/
+> * [React] - https://reactjs.org/
+> * [SQLite] - https://sqlite.org/index.html
